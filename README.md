@@ -44,12 +44,9 @@ I bring a wealth of knowledge and creativity to every project I tackle.
 <br />
 
 <hr />
-<p align="center">
-  ![Lamin Jawla's GitHub stats](https://github-readme-stats.vercel.app/api?username=laminjawla1&show_icons=true&theme=radical)
-</p>
+
+![Lamin Jawla's GitHub stats](https://github-readme-stats.vercel.app/api?username=laminjawla1&show_icons=true&theme=radical)
 
 <hr />
 
-<p align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laminjawla1&hide_progress=false)
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laminjawla1&hide_progress=false)
