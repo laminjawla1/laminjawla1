@@ -7,7 +7,7 @@ With a keen eye for detail and a deep understanding of web development best prac
 I bring a wealth of knowledge and creativity to every project I tackle.
 
 <p align="center">
-  <a href="[https://www.youtube.com/c/DevProTips?sub_confirmation=1](https://www.youtube.com/channel/UCcBEcb2dapPzi68hoAa3Cmw?sub_confirmation=1)">
+  <a href="[[https://www.youtube.com/c/DevProTips](https://www.youtube.com/channel/UCcBEcb2dapPzi68hoAa3Cmw)?sub_confirmation=1](https://www.youtube.com/channel/UCcBEcb2dapPzi68hoAa3Cmw?sub_confirmation=1)">
     <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/app/youtube-stats-badges/subscribers-badge.php"/></a>
   <a href="https://www.youtube.com/c/DevProTips">
     <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/app/youtube-stats-badges/view-count-badge.php"/></a> 
