@@ -6,6 +6,8 @@ Meet Lamin Jawla, a passionate and ambitious full stack junior web developer wit
 With a keen eye for detail and a deep understanding of web development best practices,
 I bring a wealth of knowledge and creativity to every project I tackle.
 
+<hr />
+
 <p align="center">
   <a href="https://www.youtube.com/channel/UCcBEcb2dapPzi68hoAa3Cmw?sub_confirmation=1">
     <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/app/youtube-stats-badges/subscribers-badge.php"/></a>
@@ -18,6 +20,8 @@ I bring a wealth of knowledge and creativity to every project I tackle.
   <a href="https://github.com/laminjawla1/Simple-View-Counter">
     <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
 </p>
+
+<hr />
 
 ### Languages and tools
 
@@ -37,7 +41,10 @@ I bring a wealth of knowledge and creativity to every project I tackle.
 <br />
 <br />
 
+<hr />
+
 ![Lamin Jawla's GitHub stats](https://github-readme-stats.vercel.app/api?username=laminjawla1&show_icons=true&theme=radical)
 
+<hr />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laminjawla1&hide_progress=false)
