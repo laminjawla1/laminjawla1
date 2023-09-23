@@ -1,3 +1,6 @@
+# Lamin Jawla
+
+**`A Sage (Developer/Creator/Musician)`**
 - 👋 Hi, I’m @laminjawla1
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning django
