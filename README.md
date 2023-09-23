@@ -1,11 +1,10 @@
 # Lamin Jawla
 
 **`A Sage (Developer/Creator/Musician)`**
-- 👋 Hi, I’m @laminjawla1
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning django
-- 💞️ I’m looking to collaborate on web apps
-- 📫 How to reach me laminjawla1001@mail.com
+
+Meet Lamin Jawla, a passionate and ambitious full stack junior web developer with a strong proficiency in Python and Django.
+With a keen eye for detail and a deep understanding of web development best practices,
+I bring a wealth of knowledge and creativity to every project I tackle.
 
 <!---
 laminjawla1/laminjawla1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
