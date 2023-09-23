@@ -21,7 +21,7 @@ I bring a wealth of knowledge and creativity to every project I tackle.
     <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
 </p>
 
-<hr />
+#  
 
 ### Languages and tools
 
