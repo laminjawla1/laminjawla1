@@ -2,9 +2,9 @@
 
 **`A Sage (Developer/Creator/Musician)`**
 
-Meet Lamin Jawla, a passionate and ambitious full stack junior web developer with a strong proficiency in Python and Django.
-With a keen eye for detail and a deep understanding of web development best practices,
-I bring a wealth of knowledge and creativity to every project I tackle.
+I am a Software Engineer, Lead Developer, and Deputy Head of IT at Yonna Group, with experience delivering enterprise software solutions, financial technology systems, and large-scale business applications.
+ 
+I lead the design, development, integration, and deployment of software solutions that support business operations across multiple sectors, including foreign exchange, remittance services, insurance, agriculture, and other business units within the group. My responsibilities span software architecture, system integration, project leadership, and mentoring development teams to deliver reliable and scalable solutions.
 
 #  
 
